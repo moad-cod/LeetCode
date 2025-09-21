@@ -1,3 +1,4 @@
+package mid;
 public class GCDofTwoStrings {
     public String solution(String word1, String word2) {
         int a = Math.max(word1.length(), word2.length());

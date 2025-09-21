@@ -1,3 +1,4 @@
+package hard;
 public class MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {
         char[] merged = new char[word1.length() + word2.length()];
